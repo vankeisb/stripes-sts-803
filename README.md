@@ -3,6 +3,7 @@ How to test :
 ```
 mvn clean verify
 ```
+> You'll need Firefox installed, this is a Selenium test case. For command line options see [the selenium-utils](https://github.com/pojosontheweb/selenium-utils) doc.
 
 Build should be successful.
 
